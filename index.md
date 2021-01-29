@@ -20,6 +20,6 @@ I graduated from Fudan University in 2020 with a bachelor degree. Currently I ma
 
 
 
-### Support or Contact
+### Contact
 
 tairunmeng@gmail.com
