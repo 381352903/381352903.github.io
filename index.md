@@ -13,9 +13,11 @@ I graduated from Fudan University in 2020 with a bachelor degree. Currently I ma
 1. A basic springboot + react project that supports CRUD operation on database.
 <url> http://3.128.153.85:3000/ </url>
 
-### Interets
+### Hobbies
 
 ![ijiangtao](https://github.com/381352903/381352903.github.io/blob/main/contest1.png)
+![ijiangtao](https://github.com/381352903/381352903.github.io/blob/main/contest2.png)
+![ijiangtao](https://github.com/381352903/381352903.github.io/blob/main/contest3.png)
 
 
 
