@@ -8,7 +8,7 @@ I graduated from Fudan University in 2020 with a bachelor degree. Currently I ma
 <br/>
 <a href="https://www.linkedin.com/in/tairun-meng-27b453150/">LinkedIn</a><br/>
 <a href="https://github.com/381352903">Github</a><br/>
-<a href="https://leetcode.com/mengtairun/">Leetcode</a><br/>
+
 
 ### Projects
 
