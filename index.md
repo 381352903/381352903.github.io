@@ -15,8 +15,8 @@ I graduated from Fudan University in 2020 with a bachelor degree. Currently I ma
 
 ### Hobbies
 
-![PNG](https://github.com/381352903/381352903.github.io/images/contest1.png)
-![PNG](https://github.com/381352903/381352903.github.io/images/contest3.png)
+![PNG](https://github.com/381352903/381352903.github.io/blob/main/images/contest1.png)
+![PNG](https://github.com/381352903/381352903.github.io/blob/main/images/contest3.png)
 
 
 
