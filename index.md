@@ -4,7 +4,7 @@ Tairun Meng is a young man who has passion for tech.
 
 ### Introduction
 
-I graduated from Fudan University in 2020 with a bachelor degree. Currently I major Computer Engineering in NYU. I will graduate in May 2022.
+I graduated from Fudan University in 2020 with a bachelor degree. Currently I major in Computer Engineering in New York University. I will graduate in May 2022.
 
 
 
