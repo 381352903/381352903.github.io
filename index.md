@@ -11,7 +11,8 @@ I graduated from Fudan University in 2020 with a bachelor degree. Currently I ma
 ### Projects
 
 1. A basic springboot + react project that supports CRUD operation on database.
-<url> http://3.128.153.85:3000/ </url>
+<a href="http://3.128.153.85:3000/">Click to test</a>
+
 
 ### Hobbies
 <img src="/images/contest1.jpg"/>
